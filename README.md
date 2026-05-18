@@ -2,6 +2,8 @@
 
 **Sprite Studio** is a powerful, web-based tool designed for technical artists and game developers to convert video sequences into professional sprite sheets and perform advanced sprite manipulations.
 
+🔗 **Live demo:** [sprite-studio-nine.vercel.app](https://sprite-studio-nine.vercel.app)
+
 ![Sprite Studio Preview](https://github.com/ilanlenzner-design/Sprite-Studio/raw/main/test.png) *(Placeholder for actual preview)*
 
 ## ✨ Key Features
